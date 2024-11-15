@@ -1,16 +1,17 @@
-## Hi there 👋
+## Omar Mohamadien | About Me
+**OS:** Windows 11  
+**Uptime:** 23  
+**Education:** Software development student at the Bit Academy  
+**IDE:** VSCode  
 
-<!--
-**WezyCS/WezyCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages.Programming:** PHP, JavaScript, C#, SQL  
+**Languages.Computer:** HTML, CSS, JSON  
+**Languages.Real:** English, Dutch, Arabic  
 
-Here are some ideas to get you started:
+**Hobbies:** Reading, Chess, Gaming, Building/Modding Keyboards  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ins>**Contact:**</ins>  
+
+**Email:** o.mohamadien@gmail.com  
+**Twitter:** WezyCS  
+**Discord:** WezyCS  
